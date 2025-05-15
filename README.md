@@ -4,12 +4,6 @@ A full-stack web application built with the MERN stack (MongoDB, Express, React,
 
 ---
 
-## 🌐 Live Demo
-
-> _Optional: Add your deployed site link here if hosted._
-
----
-
 ## 🧩 Tech Stack
 
 ### Frontend
