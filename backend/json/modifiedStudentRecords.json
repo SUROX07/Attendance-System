@@ -1,0 +1,642 @@
+[
+    {
+      "student_id": "01543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 21,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 21,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 20,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 20,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "02543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 19,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 19,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 19,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 18,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "03543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 22,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 22,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 22,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 22,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "04543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 18,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 17,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 17,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 17,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "05543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 20,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 20,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 20,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 20,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "06543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 19,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 19,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 18,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 18,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "07543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 23,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 23,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 22,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 22,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "08543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 20,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 20,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 19,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 19,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "09543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 22,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 21,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 21,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 21,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "10543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "A",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 17,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 17,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 17,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 17,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "11543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 21,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 21,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 21,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 20,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "12543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 18,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 18,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 18,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 18,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "13543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 20,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 19,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 19,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 19,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "14543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 17,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 17,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 16,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 16,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "15543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 20,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 20,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 20,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 19,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "16543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 18,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 18,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 17,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 17,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "17543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 21,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 21,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 21,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 21,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "18543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 19,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 19,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 19,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 19,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "19543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 17,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 17,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 17,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 16,
+          "t_id": "A002"
+        }
+      ]
+    },
+    {
+      "student_id": "20543210",
+      "sem": 4,
+      "dept": "IT",
+      "sec": "B",
+      "attendance": [
+        {
+          "subjectCode": "CS101",
+          "subjectName": "Computer Science",
+          "days_present": 18,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "MA101",
+          "subjectName": "Mathematics",
+          "days_present": 18,
+          "t_id": "A002"
+        },
+        {
+          "subjectCode": "PH101",
+          "subjectName": "Physics",
+          "days_present": 18,
+          "t_id": "A001"
+        },
+        {
+          "subjectCode": "EN101",
+          "subjectName": "English",
+          "days_present": 17,
+          "t_id": "A002"
+        }
+      ]
+    }
+  ]
